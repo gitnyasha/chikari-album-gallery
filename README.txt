@@ -42,3 +42,11 @@ clicking "Install Now" and then "Activate".
 * Extract the chikari-album-gallery directory to your computer
 * Upload the chikari-album-gallery directory to the /wp-content/plugins/ directory
 * Activate the plugin in the Plugin dashboard
+
+== Changelog ==
+= v1.0.0 =
+
+* Fix a Javascript error that displays the selected images before saving them
+= v1.0.0 =
+
+* Initial release
