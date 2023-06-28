@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Chikari Album Gallery ===
 Contributors: marshall chikari
 Donate link: https://marshallchikari.co.zw
 Tags: gallery, album, slideshow, modal
